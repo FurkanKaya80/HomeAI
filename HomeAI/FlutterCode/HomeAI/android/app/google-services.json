@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "914209228407",
+    "firebase_url": "https://denemestaj-14fa6-default-rtdb.firebaseio.com",
+    "project_id": "denemestaj-14fa6",
+    "storage_bucket": "denemestaj-14fa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914209228407:android:d15ec709ca65eeb702e872",
+        "android_client_info": {
+          "package_name": "com.example.homeai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBcVMAfzC566fmAjrNl0rnvB4l9Q5h-dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
