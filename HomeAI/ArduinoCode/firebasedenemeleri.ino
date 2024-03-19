@@ -2,11 +2,11 @@
 #include <FirebaseArduino.h>
 
 
-#define FIREBASE_HOST "denemestaj-14fa6-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "PqYQs41nxwYsebeGe8RYw54jl9hrmSMxS9XtS0G7"
+#define FIREBASE_HOST ".firebaseio.com" //firebase hostname
+#define FIREBASE_AUTH "*********" //Firebase Auth key
 
-const char* ssid = "Rigel"; //Enter SSID
-const char* password = "1234567f"; //Enter Password
+const char* ssid = "yourwifi"; //Enter SSID your wifi name
+const char* password = "123456"; //Enter Password your wifi password
 #define LED 5
 #define ROLE 2
 
